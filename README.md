@@ -177,32 +177,32 @@ Lastly, we'll add a table below the paragraph to recap some of the stuff in
 this lesson:
 
 ```html
-<table>
-  <thead>
-    <tr>
-      <th>Element name</th>
-      <th>Display value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>h1</td>
-      <td>block</td>
-    </tr>
-    <tr>
-      <td>p</td>
-      <td>block</td>
-    </tr>
-    <tr>
-      <td>strong</td>
-      <td>inline</td>
-    </tr>
-    <tr>
-      <td>em</td>
-      <td>inline</td>
-    </tr>
-  </tbody>
-</table>
+  <table>
+    <thead>
+      <tr>
+        <th>Element name</th>
+        <th>Display value</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>h1</td>
+        <td>block</td>
+      </tr>
+      <tr>
+        <td>p</td>
+        <td>block</td>
+      </tr>
+      <tr>
+        <td>strong</td>
+        <td>inline</td>
+      </tr>
+      <tr>
+        <td>em</td>
+        <td>inline</td>
+      </tr>
+    </tbody>
+  </table>
 ```
 
 Woah. That's a **lot** of markup! If you take a look at the result, though,
